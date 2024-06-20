@@ -25,3 +25,4 @@ authors = []
 
 [packages]
 efficient-coding = { path = "efficient-coding" }
+robust-testing = { path = "robust-testing" }
